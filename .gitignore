@@ -1,0 +1,6 @@
+.build/
+.codex/
+dist/
+.DS_Store
+models/
+*.dmg
