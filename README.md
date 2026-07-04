@@ -13,12 +13,13 @@ OfflineVoiceMac 是一个原生 macOS 离线语音输入工具。它录制麦克
 
 ## 展示图
 
-展示图放在 `showcase/final/`：
+![录音工作台](showcase/final/01-record-workspace.png)
 
-- `01-record-workspace.png`
-- `02-model-selection.png`
-- `03-history.png`
-- `04-install-settings.png`
+![模型选择](showcase/final/02-model-selection.png)
+
+![历史记录](showcase/final/03-history.png)
+
+![安装和高级设置](showcase/final/04-install-settings.png)
 
 ## 准备依赖
 
